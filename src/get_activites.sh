@@ -1,2 +1,2 @@
 #!/bin/bash
-antfs-cli -a
+sudo antfs-cli -a --debug
